@@ -22,7 +22,7 @@ I am a dedicated and experienced Firmware and Full-Stack Engineer with a strong 
 
 - **Senior Firmware Engineer**  
   Brocere Electronics  
-  Sep 2019 - Aug 2022  
+  Sep 2019 - Apr 2024  
   - Developed IoT-based projects using Sigfox and real-time applications.
   - Created gateways for IoT devices to reduce networking costs.
   - Utilized FreeRTOS & Zephyr on ARM Cortex-M processors for NB-IoT connections and developed complex applications for temperature monitoring and GPS tracking.
@@ -32,7 +32,7 @@ I am a dedicated and experienced Firmware and Full-Stack Engineer with a strong 
 
 - **Full-Stack Engineer**  
   Brocere Electronics  
-  Sep 2015 - Jun 2019  
+  Sep 2019 - Apr 2024   
   - Used React.js to provide custom real-time dashboards of IoT data.
   - Utilized Firebase as the backend database.
   - Leveraged AWS & GCP cloud services for various projects.
