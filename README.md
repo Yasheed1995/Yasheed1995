@@ -12,7 +12,7 @@ I am a dedicated and experienced Firmware and Full-Stack Engineer with a strong 
 
 ### Education
 
-- **Master of Electrical Engineering and Computer Science**  
+- **Master of Electrical Engineering (Computer Science)**  
   National Taiwan University
   
 - **Bachelor of Electrical Engineering**  
